@@ -1,7 +1,11 @@
 # Active-Directory-Home-lab
 A home lab that mimics a real corporate office. I built a central Server to control security, used PowerShell code to instantly create **1,000 simulated employees**, and proved I could log in to a Windows 10 laptop using those new accounts.
 
-<img width="940" height="505" alt="image" src="https://github.com/user-attachments/assets/af96ba26-d792-4286-b4a7-13d317b8bf6f" />
+## Network Architecture
+
+<img width="1110" height="655" alt="image" src="https://github.com/user-attachments/assets/c5d5134a-04cc-483b-8813-132c275aab6e" />
+
+<img width="940" height="505" alt="image" src="https://github.com/user-attachments/assets/f38c2d00-c397-4fee-abb3-0d60374872ce" />
 
 
 ## Tools & Technologies
