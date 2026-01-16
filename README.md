@@ -5,6 +5,7 @@ A home lab that mimics a real corporate office. I built a central Server to cont
 
 <img width="1110" height="655" alt="image" src="https://github.com/user-attachments/assets/c5d5134a-04cc-483b-8813-132c275aab6e" />
 
+## Successful Domain User Authentication from Client Machine
 <img width="940" height="505" alt="image" src="https://github.com/user-attachments/assets/f38c2d00-c397-4fee-abb3-0d60374872ce" />
 
 
